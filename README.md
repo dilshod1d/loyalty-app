@@ -1,6 +1,6 @@
 Loyalty App UI
 This project is a Loyalty App UI component built with Next.js and React, designed to allow users to track their loyalty program progress and redeem rewards. The app provides an engaging interface where users can see their progress towards rewards like free items and stamps, and easily redeem them with a QR code.
-![Loyalty App UI](/demo.gif)
+![Loyalty App UI](demo.gif)
 
 Features
 Progress Tracking: Visual representation of user progress for rewards (e.g., stamps or purchases) through interactive bars and collectible stamps.
